@@ -1,4 +1,4 @@
-FROM ghcr.io/hsjsa/breakdowns:noqb
+FROM ghcr.io/hsjsa/slambreakdowns:noqb
 
 WORKDIR /usr/src/app
 RUN chmod 777 /usr/src/app

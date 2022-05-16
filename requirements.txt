@@ -1,5 +1,5 @@
 aiohttp
-aria2p==0.9.1
+aria2p
 appdirs
 beautifulsoup4
 cloudscrape
@@ -20,7 +20,6 @@ python-dotenv
 python-magic
 python-telegram-bot
 requests
-speedtest-cli
 telegraph
 tenacity
 TgCrypto

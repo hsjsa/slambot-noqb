@@ -1,5 +1,5 @@
 aiohttp
-aria2p
+aria2p==0.9.1
 appdirs
 beautifulsoup4
 cloudscrape
@@ -15,7 +15,7 @@ lxml
 psutil
 psycopg2-binary
 pybase64
-pyrogram
+pyrogram==1.4.16
 python-dotenv
 python-magic
 python-telegram-bot
